@@ -11,7 +11,7 @@ Link: https://pastacosi.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
+git clone https://github.com/juilirk/Restaurant-App.git
 ```
 
 - Open **`index.html`** in your browser, and enjoy !
@@ -25,7 +25,3 @@ git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
 - Swiper
 - Isotope
 - Animate.css
-
-## Todos
-
-- [ ] Implement back-end project for food ordering, delivery, and booking tables.

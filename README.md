@@ -1,10 +1,6 @@
 ![Application screenshot](./assets/screenshot.png)
 
-[Pastacosi Restaurant](https://pastacosi.netlify.app) is a simple, modern and responsive website for restaurants, made with Bootstrap.
-
-# Live Preview:
-
-Link: https://pastacosi.netlify.app
+Pastacosi Restaurant is a simple, modern and responsive website for restaurants, made with Bootstrap.
 
 # Install
 
